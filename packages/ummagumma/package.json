@@ -1,0 +1,19 @@
+{
+  "name": "@convidera/ummagumma",
+  "version": "1.0.0",
+  "description": "very experimental",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/convidera/learning-lerna.git"
+  },
+  "author": "Mariia Shishkina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/convidera/learning-lerna/issues"
+  },
+  "homepage": "https://github.com/convidera/learning-lerna#readme"
+}
