@@ -4,7 +4,7 @@
   "description": "A package literally full of secrets",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"A saucerful of secrets has been opened\" && exit 1"
+    "test": "echo A saucerful of secrets has been opened"
   },
   "repository": {
     "type": "git",
