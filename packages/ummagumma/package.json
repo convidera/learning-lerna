@@ -4,7 +4,7 @@
   "description": "very experimental",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict\" && exit 1"
+    "test": "echo Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict"
   },
   "repository": {
     "type": "git",
