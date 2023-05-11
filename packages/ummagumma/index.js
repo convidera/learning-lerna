@@ -6,7 +6,7 @@ const songs = [
   "Sysyphus",
   "Grantchester Meadows",
   "Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict",
-  "The Narrow Way – Parts 1, 2 & 3",
+  "The Narrow Way: Parts 1, 2 & 3",
   "The Grand Vizier's Garden Party",
 ];
 
