@@ -1,6 +1,6 @@
 {
   "name": "@convidera/saucerful-of-secrets",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A package literally full of secrets",
   "main": "index.js",
   "scripts": {
