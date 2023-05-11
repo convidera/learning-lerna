@@ -1,5 +1,5 @@
 {
-  "name": "learning-lerna",
+  "name": "@convidera/learning-lerna",
   "version": "1.0.0",
   "description": "testing lerna, github actions and conventional commits",
   "main": "index.js",
