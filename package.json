@@ -4,7 +4,7 @@
   "description": "testing lerna, github actions and conventional commits",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"I do not want to be tested\" && exit 1"
+    "test": "echo \"I do not want to be tested\""
   },
   "author": "Mariia Shishkina",
   "license": "ISC",
