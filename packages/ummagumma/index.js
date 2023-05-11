@@ -12,4 +12,5 @@ const songs = [
 
 (() => {
   songs.forEach((song) => console.log(song));
+  console.log(test);
 })();
