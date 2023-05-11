@@ -1,0 +1,19 @@
+{
+  "name": "@convidera/saucerful-of-secrets",
+  "version": "1.0.0",
+  "description": "A package literally full of secrets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"A saucerful of secrets has been opened\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/convidera/learning-lerna.git"
+  },
+  "author": "Mariia Shishkina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/convidera/learning-lerna/issues"
+  },
+  "homepage": "https://github.com/convidera/learning-lerna#readme"
+}
