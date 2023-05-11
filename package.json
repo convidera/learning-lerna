@@ -1,0 +1,17 @@
+{
+  "name": "learning-lerna",
+  "version": "1.0.0",
+  "description": "testing lerna, github actions and conventional commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"I do not want to be tested\" && exit 1"
+  },
+  "author": "Mariia Shishkina",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^6.6.2"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
