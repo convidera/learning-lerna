@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/convidera/learning-lerna/compare/@convidera/ummagumma@1.1.1...@convidera/ummagumma@1.2.0) (2023-05-11)
+
+
+### Features
+
+* **ummagumma:** changes the song, fixes changelog a bit ([#7](https://github.com/convidera/learning-lerna/issues/7)) ([5b5f7d8](https://github.com/convidera/learning-lerna/commit/5b5f7d8eb40eb8ef578d1d51d0c3371a25887742))
+
+
+
+
+
 ## [1.1.1](https://github.com/convidera/learning-lerna/compare/@convidera/ummagumma@1.1.0...@convidera/ummagumma@1.1.1) (2023-05-11)
 
 
