@@ -12,3 +12,19 @@ Furthermore it leverages the commitlint to check if the pushed commit into the m
 Only squashing PRs is allowed.
 
 Husky is used to lint commit messages.
+
+## possible next steps
+An approach combining linting of the PR titles and squash-only merging with messages defaulting to pull request title. A workflow for it could go along something like this (not tested yet).
+Alternatively, any string can be linted against commitlint rules programmatically (an example here: https://github.com/dreampulse/action-commitlint-pull-request-title/blob/main/README.md).
+```
+on:
+  push:
+  pull_request:
+   types: [opened, synchronize]
+jobs:
+  commitlint:
+    ...
+
+      - name: Validate PR title with commitlint
+        run: npx commitlint ${{ github.event.pull_request.title }} --verbose
+```
